@@ -128,7 +128,7 @@ const About = () => {
 									<h3 className="text-2xl font-semibold mb-4">Our Story</h3>
 									<p className="text-white/80 leading-relaxed">
 										Founded with a vision to bridge the gap between cutting-edge technology and exceptional design, 
-										KhurasanLabs has grown into a trusted partner for businesses seeking to make their mark in the 
+										RahnorLabs has grown into a trusted partner for businesses seeking to make their mark in the 
 										digital world. We believe that every project is an opportunity to create something extraordinary.
 									</p>
 								</motion.div>
