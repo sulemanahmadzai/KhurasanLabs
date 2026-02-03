@@ -1,14 +1,15 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-	title: "Services - KhurasanLabs",
-	description: "Comprehensive digital solutions: Web Development, UI/UX Design, App Development, and AI Solutions. Transform your business with KhurasanLabs.",
+  title: "Services - RahnorLabs",
+  description:
+    "Comprehensive digital solutions: Web Development, UI/UX Design, App Development, and AI Solutions. Transform your business with RahnorLabs.",
 };
 
 export default function ServicesLayout({
-	children,
+  children,
 }: {
-	children: React.ReactNode;
+  children: React.ReactNode;
 }) {
-	return children;
+  return children;
 }

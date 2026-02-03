@@ -12,7 +12,7 @@ const Footer = () => {
               className="flex items-center gap-3 hover:opacity-80 transition"
             >
               <Logo className="h-16 w-16 md:h-20 md:w-20" />
-              <div className="font-medium text-lg md:text-xl">KhurasanLabs</div>
+              <div className="font-medium text-lg md:text-xl">RahnorLabs</div>
             </Link>
             <nav className="flex flex-col lg:flex-row gap-5 lg:gap-7">
               <Link
@@ -106,8 +106,7 @@ const Footer = () => {
 
           <div className="border-t border-white/15 pt-6 text-center text-xs text-white/50">
             <p>
-              &copy; {new Date().getFullYear()} KhurasanLabs. All rights
-              reserved.
+              &copy; {new Date().getFullYear()} RahnorLabs. All rights reserved.
             </p>
           </div>
         </div>
