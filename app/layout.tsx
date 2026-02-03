@@ -6,7 +6,7 @@ import { twMerge } from "tailwind-merge";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	title: "KhurasanLabs - AI, Web, UI/UX & App Development",
+	title: "Rahnor Labs - AI, Web, UI/UX & App Development",
 	description: "Transform your ideas into exceptional digital experiences. Expert web development, UI/UX design, mobile apps, and AI solutions.",
 	metadataBase: new URL('https://khurasanlabs.com'),
 	icons: {

@@ -87,7 +87,7 @@ const About = () => {
 							className="max-w-4xl mx-auto text-center"
 						>
 							<h1 className="text-6xl md:text-8xl font-semibold tracking-tighter mb-6 bg-white bg-[radial-gradient(100%_100%_at_top_left,white,rgb(74,32,138,.5))] text-transparent bg-clip-text">
-								About KhurasanLabs
+								About Labs
 							</h1>
 							<p className="text-xl md:text-2xl text-white/80 max-w-2xl mx-auto mb-8">
 								Transforming ideas into exceptional digital experiences through innovation, creativity, and technical excellence.
@@ -111,7 +111,7 @@ const About = () => {
 									Who We Are
 								</h2>
 								<p className="text-xl text-white/80 leading-relaxed max-w-3xl mx-auto">
-									KhurasanLabs is a forward-thinking digital agency born from a passion for innovation and excellence. 
+									Rahnor Labs is a forward-thinking digital agency born from a passion for innovation and excellence. 
 									We combine technical expertise with creative vision to transform ideas into reality, helping businesses 
 									thrive in the digital landscape.
 								</p>
@@ -212,7 +212,7 @@ const About = () => {
 									<div className="absolute top-0 right-0 w-32 h-32 bg-purple-500/20 rounded-full blur-3xl" />
 									<h2 className="text-4xl font-medium tracking-tighter mb-6">Our Mission</h2>
 									<p className="text-lg text-white/80 leading-relaxed">
-										At KhurasanLabs, we believe in the power of technology to transform businesses and improve lives. 
+										At RahnorLabs, we believe in the power of technology to transform businesses and improve lives. 
 										Our mission is to deliver innovative, high-quality digital solutions that help our clients achieve 
 										their goals and exceed their expectations. We&apos;re committed to staying at the forefront of 
 										technology trends and continuously evolving our skills to serve you better.
